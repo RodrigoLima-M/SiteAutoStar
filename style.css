@@ -951,10 +951,3 @@ footer{
   color: var(--Azul-Escuro);
   white-space: nowrap;
 }
-
-/**VEICULOS**/
-
-#mainvei{
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-}
